@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "658333182771",
+    "project_id": "practicafirebase-f61e6",
+    "storage_bucket": "practicafirebase-f61e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658333182771:android:0719cb25186e6861f72c46",
+        "android_client_info": {
+          "package_name": "com.example.examplefirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBym9g0OiRs13biKXZvv9WY-hlZ_sUm9L0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658333182771:android:852ffccf02f90abbf72c46",
+        "android_client_info": {
+          "package_name": "com.programacionandroid.examenfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBym9g0OiRs13biKXZvv9WY-hlZ_sUm9L0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
